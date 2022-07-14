@@ -1,6 +1,16 @@
 # 2022-HexSchool-Layout-Course---week1
 2022 六角切版直播班 - 第一週
 
+本週學習重點：
+
+1. 網頁可分為容器與元素，外容器可用container
+2. class 名稱順序，共用的 class 性質放自訂的 class 名稱後面，例如：<div class="profile container">
+3. 行距高度是由 line-height 所影響
+4. 盡量不要寫死高度，可用padding去推
+5. 推擠方向請盡量一致，以方便維護，例如 margin-bottom
+6. 圖片可以設定 vertical-align:middle; 就不會有2-3px的空隙
+
+
 下方提供關於作業細節的建議：
 
 1. 「個人資料」區塊內可以將同一個項目的資料寫在同一個 li 內，整體可以使用兩個 li 標籤並搭配 br 標籤來將文字換行即可。
