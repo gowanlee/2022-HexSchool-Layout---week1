@@ -21,11 +21,13 @@
 
 2. 「聯絡方式」內資訊可以在 mail、phone、作品連結都使用 a 標籤包裹，透過連結的方式直接開啟信箱或是撥打電話，有助於增加使用者體驗，可以使用 Emmet 語法（a:mail、a:tel）來快速產生語法。
 
-<li>Mail：<a href="mailto:xxxd@hexschool.com">xxxd@hexschool.com</a></li>
-<li>Phone：<a href="tel:+886-910123456">0910123456</a></li>
-
+<ul>
+  <li>Mail：<a href="mailto:xxxd@hexschool.com">xxxd@hexschool.com</a></li>
+  <li>Phone：<a href="tel:+886-910123456">0910123456</a></li>
+</ul>
 
 3. a 標籤樣式建議添加   display: block; ，將其轉為區塊元素，這樣才會正確呈現。
+<img src="https://s3-us-west-2.amazonaws.com/video-hexschool/teachable/DTRcKDQuyCd1qWB4dZLpCm08w14rdZIQongAKGo4lrCths39fM0ZnWohOqRshYBrrVThKbcsqjqIIMU8BJ0NtAhwYh5bR5N7sHUsdeOhpSmYs4J8ygkhaeo0TozJSa3K.">
 
 
 
