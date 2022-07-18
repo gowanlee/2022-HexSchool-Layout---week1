@@ -1,4 +1,4 @@
-# 2022-HexSchool-Layout-Course---week1
+# 2022-HexSchool-Layout-Course-week1
 2022 六角切版直播班 - 第一週
 
 本週學習重點：
